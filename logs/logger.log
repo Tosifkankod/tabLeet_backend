@@ -80,3 +80,984 @@
         "SERVER_URL": "http://localhost:3000"
     }
 }
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:10:37.245Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:11:01.091Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:11:09.971Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:11:21.439Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:11:25.833Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:13:22.007Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:13:53.909Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:14:05.049Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:14:07.498Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:14:11.817Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:14:59.837Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:15:34.379Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:15:46.808Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:15:59.225Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:16:01.875Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:16:05.827Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:17:54.317Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:17:58.940Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-13T14:18:02.870Z",
+    "meta": {
+        "success": false,
+        "statusCode": 404,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/userDetails%20"
+        },
+        "message": "route not found",
+        "data": null,
+        "trace": {
+            "error": "Error: route not found\n    at C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\app.ts:19:11\n    at Layer.handleRequest (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\router\\index.js:342:13)\n    at C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\router\\index.js:297:9\n    at processParams (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\router\\index.js:582:12)\n    at Immediate.next (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\router\\index.js:291:5)\n    at Immediate._onImmediate (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\router\\index.js:688:15)\n    at processImmediate (node:internal/timers:487:21)"
+        }
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-13T14:18:10.354Z",
+    "meta": {
+        "success": false,
+        "statusCode": 404,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/userDetails"
+        },
+        "message": "route not found",
+        "data": null,
+        "trace": {
+            "error": "Error: route not found\n    at C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\app.ts:19:11\n    at Layer.handleRequest (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\router\\index.js:342:13)\n    at C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\router\\index.js:297:9\n    at processParams (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\router\\index.js:582:12)\n    at Immediate.next (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\router\\index.js:291:5)\n    at Immediate._onImmediate (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\router\\index.js:688:15)\n    at processImmediate (node:internal/timers:487:21)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:19:16.500Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-13T14:19:22.167Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle",
+        "data": null,
+        "trace": {
+            "error": "TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle\n    at JSON.stringify (<anonymous>)\n    at stringify (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:1020:12)\n    at ServerResponse.json (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:243:14)\n    at exports.default (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\util\\httpResponse.ts:29:34)\n    at userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:99:19)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:20:34.953Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:20:39.566Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-13T14:20:42.702Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle",
+        "data": null,
+        "trace": {
+            "error": "TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle\n    at JSON.stringify (<anonymous>)\n    at stringify (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:1020:12)\n    at ServerResponse.json (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:243:14)\n    at exports.default (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\util\\httpResponse.ts:29:34)\n    at userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:101:19)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:21:06.639Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:21:14.485Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-13T14:21:22.041Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle",
+        "data": null,
+        "trace": {
+            "error": "TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle\n    at JSON.stringify (<anonymous>)\n    at stringify (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:1020:12)\n    at ServerResponse.json (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:243:14)\n    at exports.default (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\util\\httpResponse.ts:29:34)\n    at userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:101:19)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:22:13.639Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:23:26.362Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-13T14:23:30.398Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle",
+        "data": null,
+        "trace": {
+            "error": "TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle\n    at JSON.stringify (<anonymous>)\n    at stringify (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:1020:12)\n    at ServerResponse.json (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:243:14)\n    at exports.default (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\util\\httpResponse.ts:29:34)\n    at userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:101:19)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:23:47.131Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:23:51.828Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-13T14:23:53.994Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle",
+        "data": null,
+        "trace": {
+            "error": "TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle\n    at JSON.stringify (<anonymous>)\n    at stringify (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:1020:12)\n    at ServerResponse.json (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:243:14)\n    at exports.default (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\util\\httpResponse.ts:29:34)\n    at userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:101:19)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:25:01.869Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:25:05.923Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:25:57.228Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:27:16.512Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:27:26.712Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-13T14:27:29.725Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle",
+        "data": null,
+        "trace": {
+            "error": "TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle\n    at JSON.stringify (<anonymous>)\n    at stringify (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:1020:12)\n    at ServerResponse.json (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:243:14)\n    at exports.default (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\util\\httpResponse.ts:29:34)\n    at userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:65:19)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:28:07.733Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:28:10.714Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-13T14:28:24.931Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "getaddrinfo ENOTFOUND leetcode.com",
+        "data": null,
+        "trace": {
+            "error": "Error: getaddrinfo ENOTFOUND leetcode.com\n    at Function.AxiosError.from (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\AxiosError.js:96:14)\n    at RedirectableRequest.handleRequestError (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:638:25)\n    at RedirectableRequest.emit (node:events:518:28)\n    at RedirectableRequest.emit (node:domain:489:12)\n    at ClientRequest.eventHandlers.<computed> (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\follow-redirects\\index.js:49:24)\n    at ClientRequest.emit (node:events:518:28)\n    at ClientRequest.emit (node:domain:489:12)\n    at emitErrorEvent (node:_http_client:104:11)\n    at TLSSocket.socketErrorListener (node:_http_client:518:5)\n    at TLSSocket.emit (node:events:518:28)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:46:22)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:28:27.264Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-13T14:28:33.433Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "\"[object Object]\" is not valid JSON",
+        "data": null,
+        "trace": {
+            "error": "SyntaxError: \"[object Object]\" is not valid JSON\n    at JSON.parse (<anonymous>)\n    at userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:63:22)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:28:49.929Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-13T14:28:53.629Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "\"[object Object]\" is not valid JSON",
+        "data": null,
+        "trace": {
+            "error": "SyntaxError: \"[object Object]\" is not valid JSON\n    at JSON.parse (<anonymous>)\n    at userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:63:22)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:34:00.619Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:34:15.661Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:36:29.020Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:36:51.822Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-13T14:37:43.093Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle",
+        "data": null,
+        "trace": {
+            "error": "TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle\n    at JSON.stringify (<anonymous>)\n    at stringify (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:1020:12)\n    at ServerResponse.json (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:243:14)\n    at exports.default (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\util\\httpResponse.ts:29:34)\n    at userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:66:19)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:37:55.028Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:37:57.260Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:46:46.772Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:47:02.382Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:48:13.867Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-13T14:48:16.343Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle",
+        "data": null,
+        "trace": {
+            "error": "TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle\n    at JSON.stringify (<anonymous>)\n    at stringify (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:1020:12)\n    at ServerResponse.json (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:243:14)\n    at exports.default (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\util\\httpResponse.ts:29:34)\n    at userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:65:19)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:48:51.883Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:49:15.066Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:49:19.475Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:49:25.311Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:49:32.302Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:49:50.427Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-13T14:49:53.264Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Converting circular structure to JSON\n    --> starting at object with constructor 'Socket'\n    |     property 'parser' -> object with constructor 'HTTPParser'\n    --- property 'socket' closes the circle",
+        "data": null,
+        "trace": {
+            "error": "TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'Socket'\n    |     property 'parser' -> object with constructor 'HTTPParser'\n    --- property 'socket' closes the circle\n    at JSON.stringify (<anonymous>)\n    at stringify (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:1020:12)\n    at ServerResponse.json (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:243:14)\n    at exports.default (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\util\\httpResponse.ts:29:34)\n    at userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:65:19)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:50:16.230Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:50:36.108Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:50:42.428Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:50:45.907Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:51:05.712Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-13T14:51:08.159Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle",
+        "data": null,
+        "trace": {
+            "error": "TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle\n    at JSON.stringify (<anonymous>)\n    at userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:63:23)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:54:20.202Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-13T14:54:21.218Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Converting circular structure to JSON\n    --> starting at object with constructor 'Socket'\n    |     property 'parser' -> object with constructor 'HTTPParser'\n    --- property 'socket' closes the circle",
+        "data": null,
+        "trace": {
+            "error": "TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'Socket'\n    |     property 'parser' -> object with constructor 'HTTPParser'\n    --- property 'socket' closes the circle\n    at JSON.stringify (<anonymous>)\n    at stringify (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:1020:12)\n    at ServerResponse.json (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:243:14)\n    at exports.default (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\util\\httpResponse.ts:29:34)\n    at userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:65:19)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:54:28.034Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:55:12.935Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:55:26.395Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:55:48.266Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-13T14:55:51.363Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle",
+        "data": null,
+        "trace": {
+            "error": "TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle\n    at JSON.stringify (<anonymous>)\n    at stringify (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:1020:12)\n    at ServerResponse.json (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:243:14)\n    at exports.default (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\util\\httpResponse.ts:20:15)\n    at userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:63:19)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:56:14.300Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:56:21.432Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:56:34.084Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:56:41.147Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-13T14:56:48.902Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle",
+        "data": null,
+        "trace": {
+            "error": "TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'res' -> object with constructor 'IncomingMessage'\n    --- property 'req' closes the circle\n    at JSON.stringify (<anonymous>)\n    at stringify (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:1020:12)\n    at ServerResponse.json (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:243:14)\n    at exports.default (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\util\\httpResponse.ts:29:34)\n    at userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:63:19)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:58:09.505Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T14:58:12.518Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T15:31:39.560Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T15:31:53.558Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T15:34:30.469Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-13T15:34:33.101Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
