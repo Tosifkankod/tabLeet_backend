@@ -5,8 +5,7 @@ const router = Router();
 
 router.route("/:username").get(leetcodeController.userDetails);
 router.route("/badges/:username").get(leetcodeController.userBadges);
-router
-  .route("/submission-stats/:username")
-  .get(leetcodeController.userSubmissionStats);
+router.route("/submission-stats/:username").get(leetcodeController.userSubmissionStats);
+router.route("/calendar/:username").get(leetcodeController.userCalendar)
 
 export default router;

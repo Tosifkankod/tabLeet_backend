@@ -107,4 +107,12 @@ query getUserSubmissionStats($username: String!) {
   }
 }`;
 
-export { userFullProfile, userBadges, userSubmissionStats };
+
+const userCalendar = `#graphql
+query getUserCalendar($username: String!) {
+  matchedUser(username: $username) {
+    submissionCalendar
+  }
+}`;
+
+export { userFullProfile, userBadges, userCalendar, userSubmissionStats };
