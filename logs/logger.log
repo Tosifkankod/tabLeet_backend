@@ -1061,3 +1061,1967 @@
         "SERVER_URL": "http://localhost:3000"
     }
 }
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:32:30.553Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:33:28.317Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:33:37.521Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:39:32.518Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:41:02.750Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:41:14.182Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:41:24.124Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:41:27.241Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:41:46.604Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:42:13.613Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:42:26.545Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:42:37.834Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:42:46.176Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:42:51.277Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:42:56.825Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:43:19.922Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T10:43:26.571Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/tosifkankod"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:46:22)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:43:40.322Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:44:24.911Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:47:25.977Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T10:47:29.835Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/tosifkankod"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:52:22)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:47:48.785Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T10:47:54.624Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/tosifkankod"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:52:22)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:48:34.804Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T10:48:36.825Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/tosifkankod"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:53:22)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:48:44.660Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:48:48.053Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:48:59.163Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T10:49:08.877Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/tosifkankod"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:52:22)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:49:42.355Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:49:46.851Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T10:49:50.011Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/tosifkankod"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:52:22)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:49:56.190Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:50:11.096Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T10:50:15.416Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/tosifkankod"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:46:22)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:50:30.610Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:50:44.156Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T10:50:47.263Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:46:22)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:51:12.349Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:51:25.231Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T10:51:49.845Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:46:22)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:52:14.330Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T10:52:17.904Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:47:22)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:52:33.804Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:52:52.698Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:53:00.219Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T10:53:01.298Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:46:22)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:53:35.473Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:53:39.576Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:54:58.413Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:55:39.120Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T10:55:44.533Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:46:22)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:56:22.015Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T10:56:30.221Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:46:22)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:56:44.503Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:57:35.637Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:57:42.049Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T10:57:44.978Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:46:22)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:58:00.837Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:58:05.625Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T10:58:11.371Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:46:22)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:58:33.983Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T10:58:37.789Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:46:22)"
+        }
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T10:58:39.336Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:46:22)"
+        }
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T10:58:40.591Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:46:22)"
+        }
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T10:58:41.564Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:46:22)"
+        }
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T10:58:43.006Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:46:22)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T10:59:10.750Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:00:02.275Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:00:04.885Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T11:00:09.441Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:46:24)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:00:21.764Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:00:30.345Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:00:34.541Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T11:00:36.869Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:46:24)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:01:00.399Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T11:01:06.436Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:46:24)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:01:32.843Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:01:37.487Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T11:01:40.176Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/user-details"
+        },
+        "message": "Request failed with status code 400",
+        "data": null,
+        "trace": {
+            "error": "AxiosError: Request failed with status code 400\n    at settle (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\adapters\\http.js:617:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\axios\\lib\\core\\Axios.js:45:41)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:46:24)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:02:53.187Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:03:27.980Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:03:47.684Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:03:53.741Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:04:15.772Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:08:31.242Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:11:23.333Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:17:17.717Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:17:45.093Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:17:57.851Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:18:35.429Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:18:40.501Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:18:47.636Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:18:59.614Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:20:05.190Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:20:11.799Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:21:06.488Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:21:08.846Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:21:34.246Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:21:40.771Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:22:03.441Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:22:07.085Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:22:20.376Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:22:29.299Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:22:46.849Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:22:49.392Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:22:55.546Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:22:58.690Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:23:01.385Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T11:23:04.258Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/tosifkankdod"
+        },
+        "message": "Cannot read properties of undefined (reading 'message')",
+        "data": null,
+        "trace": {
+            "error": "TypeError: Cannot read properties of undefined (reading 'message')\n    at userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:34:45)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:23:27.551Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:23:43.300Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:23:56.767Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:24:10.669Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:24:32.707Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:24:46.157Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:24:49.620Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:24:57.368Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:25:06.165Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:25:14.143Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T11:25:17.535Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/tosifkankdod"
+        },
+        "message": "Cannot set headers after they are sent to the client",
+        "data": null,
+        "trace": {
+            "error": "Error: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:700:11)\n    at ServerResponse.header (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:684:10)\n    at ServerResponse.send (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:161:12)\n    at ServerResponse.json (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:250:15)\n    at exports.default (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\util\\httpResponse.ts:29:34)\n    at userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:37:19)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:25:34.186Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T11:25:36.386Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/tosifkankdod"
+        },
+        "message": "Cannot set headers after they are sent to the client",
+        "data": null,
+        "trace": {
+            "error": "Error: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:700:11)\n    at ServerResponse.header (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:684:10)\n    at ServerResponse.send (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:161:12)\n    at ServerResponse.json (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:250:15)\n    at exports.default (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\util\\httpResponse.ts:29:34)\n    at userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:37:19)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+        }
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T11:25:46.142Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/tosifkankdod"
+        },
+        "message": "Cannot set headers after they are sent to the client",
+        "data": null,
+        "trace": {
+            "error": "Error: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:700:11)\n    at ServerResponse.header (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:684:10)\n    at ServerResponse.send (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:161:12)\n    at ServerResponse.json (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\node_modules\\express\\lib\\response.js:250:15)\n    at exports.default (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\util\\httpResponse.ts:29:34)\n    at userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:37:19)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:26:01.184Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:26:05.204Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:26:08.135Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:26:18.473Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "ERROR",
+    "message": "CONTROLLER_ERROR",
+    "timestamp": "2025-09-14T11:26:22.702Z",
+    "meta": {
+        "success": false,
+        "statusCode": 500,
+        "request": {
+            "ip": "::1",
+            "method": "GET",
+            "url": "/api/v1/leetcode/tosifkankod"
+        },
+        "message": "Cannot read properties of undefined (reading 'length')",
+        "data": null,
+        "trace": {
+            "error": "TypeError: Cannot read properties of undefined (reading 'length')\n    at userDetails (C:\\Users\\tosif\\Documents\\New folder\\tabLeet_backend\\src\\controller\\leetcodeController.ts:33:23)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+        }
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:26:35.357Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:26:48.353Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:27:23.611Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:34:59.640Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:35:02.524Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:35:12.169Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:35:17.021Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:35:28.281Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:35:34.539Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:35:38.768Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:39:40.238Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:39:45.677Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:39:55.974Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:40:03.369Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:40:11.371Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:40:20.056Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:40:29.052Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:41:09.297Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:41:16.217Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:41:20.900Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:41:27.727Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:41:31.948Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:41:58.943Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:42:17.620Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:42:20.680Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:42:40.216Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:42:53.452Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:42:56.285Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:43:06.722Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:43:18.809Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:43:33.175Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:43:46.680Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:43:58.406Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:44:12.482Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:44:21.452Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:45:04.152Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:45:23.200Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:49:22.908Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:49:35.292Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:49:37.868Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:49:40.831Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:50:43.021Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:50:49.317Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:52:05.717Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:52:12.940Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:52:22.243Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:52:26.889Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:52:34.215Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:52:55.467Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:54:23.896Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:54:29.964Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T11:54:44.506Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T12:02:16.951Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T12:02:56.329Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T12:03:00.448Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T12:04:41.836Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
+{
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "timestamp": "2025-09-14T15:43:59.858Z",
+    "meta": {
+        "PORT": "3000",
+        "SERVER_URL": "http://localhost:3000"
+    }
+}
