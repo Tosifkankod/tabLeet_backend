@@ -115,4 +115,21 @@ query getUserCalendar($username: String!) {
   }
 }`;
 
-export { userFullProfile, userBadges, userCalendar, userSubmissionStats };
+const tabLeet = `#graphql
+query getUserBasicStats($username: String!) {
+  matchedUser(username: $username) {
+    username
+    profile {
+      ranking
+      userAvatar
+    }
+    submitStats {
+      acSubmissionNum {
+        difficulty
+        count
+      }
+    }
+  }
+}`;
+
+export { userFullProfile, userBadges, userCalendar, tabLeet, userSubmissionStats };
