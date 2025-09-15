@@ -3,6 +3,7 @@ import responseMessage from "./constant/responseMessage";
 import httpError from "./util/httpError";
 import { Request, Response, NextFunction } from "express";
 import globalErrorHandler from "./middleware/globalErrorHandler";
+import cors from 'cors';
 import router from "./router";
 
 // Initialize
@@ -10,6 +11,7 @@ const app: Application = express();
 
 // Middleware
 app.use(express.json());
+app.use(cors());
 
 app.use("/api/v1", router);
 
