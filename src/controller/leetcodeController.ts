@@ -114,11 +114,7 @@ export default {
     }
   },
 
-  userCalendar: async (
-    req: Request,
-    res: Response,
-    next: NextFunction
-  ) => {
+  userCalendar: async (req: Request, res: Response, next: NextFunction) => {
     const { username } = req.params;
     try {
       const response = await axios.post(
@@ -142,20 +138,55 @@ export default {
       if (rawData.errors && rawData.errors.length > 0) {
         return httpResponse(req, res, 400, rawData.errors[0].message);
       }
-      console.log(rawData);
-      return httpResponse(req, res, 200, responseMessage.SUCCESS, rawData.data);
+
+      const parsed = JSON.parse(rawData.data.matchedUser.submissionCalendar);
+
+      const today = new Date();
+      const startDate = new Date(
+        Date.UTC(today.getUTCFullYear(), today.getUTCMonth() - 2, 1)
+      );
+
+      // Normalize helper (force UTC midnight)
+      const normalizeUTC = (d: Date) =>
+        new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate()));
+
+      const raw = Object.entries(parsed).map(([ts, count]) => {
+        const d = new Date(Number(ts) * 1000);
+        return { date: normalizeUTC(d), count };
+      });
+
+      // ✅ Filter only last 3 months
+      const filteredRaw = raw.filter(
+        (d) => d.date >= startDate && d.date <= today
+      );
+
+      // Build full range (day by day, UTC-safe)
+      const days: Date[] = [];
+      for (
+        let d = new Date(startDate);
+        d <= today;
+        d.setUTCDate(d.getUTCDate() + 1)
+      ) {
+        days.push(new Date(d));
+      }
+
+      const map = new Map(
+        filteredRaw.map((d) => [d.date.toISOString().split("T")[0], d.count])
+      );
+
+      const activity = days.map((d) => ({
+        date: d.toISOString().split("T")[0], // YYYY-MM-DD
+        count: map.get(d.toISOString().split("T")[0]) ?? 0,
+      }));
+
+      return httpResponse(req, res, 200, responseMessage.SUCCESS, activity);
     } catch (err) {
-      +
-        console.log(err);
+      console.log(err);
       httpError(next, err, req, 500);
     }
   },
 
-  tabLeet: async (
-    req: Request,
-    res: Response,
-    next: NextFunction
-  ) => {
+  tabLeet: async (req: Request, res: Response, next: NextFunction) => {
     const { username } = req.params;
     try {
       const response = await axios.post(
@@ -186,5 +217,4 @@ export default {
       httpError(next, err, req, 500);
     }
   },
-
 };

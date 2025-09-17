@@ -107,7 +107,6 @@ query getUserSubmissionStats($username: String!) {
   }
 }`;
 
-
 const userCalendar = `#graphql
 query getUserCalendar($username: String!) {
   matchedUser(username: $username) {
@@ -132,4 +131,10 @@ query getUserBasicStats($username: String!) {
   }
 }`;
 
-export { userFullProfile, userBadges, userCalendar, tabLeet, userSubmissionStats };
+export {
+  userFullProfile,
+  userBadges,
+  userCalendar,
+  tabLeet,
+  userSubmissionStats,
+};
