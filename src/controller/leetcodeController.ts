@@ -11,6 +11,7 @@ import {
   userCalendar,
   tabLeet,
 } from "../query/userDetails";
+import motivationalQuotes from "../constant/quotes";
 
 const LEETCODE_API_URL = config.LEETCODE_API || "https://leetcode.com/graphql";
 const levels = [
@@ -379,4 +380,18 @@ export default {
       httpError(next, err, req, 500);
     }
   },
+
+  randomQuotes: async (req: Request, res: Response, next: NextFunction) => {
+    try {
+      const randomIndex = Math.floor(Math.random() * motivationalQuotes.length);
+      const quote = motivationalQuotes[randomIndex]
+      console.log("helloooooooooooo😀😀😀")
+
+      return httpResponse(req, res, 200, responseMessage.SUCCESS, { quote });
+    } catch (err) {
+      console.log(err);
+      httpError(next, err, req, 500);
+    }
+  },
+
 };
