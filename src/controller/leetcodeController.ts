@@ -232,6 +232,7 @@ export default {
     next: NextFunction
   ) => {
     const { username } = req.params;
+    console.log(username);
     try {
       // Fetch data from LeetCode API
       const response = await axios.post(
@@ -384,8 +385,8 @@ export default {
   randomQuotes: async (req: Request, res: Response, next: NextFunction) => {
     try {
       const randomIndex = Math.floor(Math.random() * motivationalQuotes.length);
-      const quote = motivationalQuotes[randomIndex]
-      console.log("helloooooooooooo😀😀😀")
+      const quote = motivationalQuotes[randomIndex];
+      console.log("helloooooooooooo😀😀😀");
 
       return httpResponse(req, res, 200, responseMessage.SUCCESS, { quote });
     } catch (err) {
@@ -393,5 +394,4 @@ export default {
       httpError(next, err, req, 500);
     }
   },
-
 };
